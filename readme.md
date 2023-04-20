@@ -9,6 +9,7 @@ Popis:
 
 Spuštění:
 	V konfiguračním souboru ve složce conf/config.json zadáte správné přihlašovací údaje do databáze.
+	Před spuštěním je potřeba nainstalovat externí knohovnu mysql-connector.
 	Dále pro spušťení aplikace si otevřte příkazovou řádku pro hlavní složku aplikace a to Omega
 	Teď už jen stačí použít příkaz "python main.py" a nebo "python3 main.py".
 
