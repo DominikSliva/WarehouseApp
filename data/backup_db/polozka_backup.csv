@@ -1,0 +1,15 @@
+,id,nazev,cena,kod,pocet_ks,lokace_ulozeni_id,dodavatel_id,kategorie_id
+,Konev,200.0,10001,10,1,1,1
+,Hnojivo pokojové 10L,1347.0,10002,30,1,1,3
+,Hnojivo pokojové 20L,1292.0,10003,25,2,1,3
+,Hnojivo pokojové 40L,1221.0,10004,25,3,1,3
+,Hnojivo pokojové 50L,927.0,10005,11,4,1,3
+,Sekera X10,1475.0,10006,16,5,2,2
+,Sekera X12,1437.0,10007,15,5,2,2
+,Sekera X15,275.0,10008,25,6,2,2
+,Sekera X18,1474.0,10009,24,6,2,2
+,Sekera X22,502.0,10010,11,7,2,2
+,Kladivo,595.0,10011,20,8,3,5
+,Kladívko,801.0,10012,14,8,3,5
+,Čajová svíčka 5ks,1053.0,10013,14,9,4,5
+,Čajová svíčka 10ks,1260.0,10014,19,10,4,5

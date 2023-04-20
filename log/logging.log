@@ -1,0 +1,40 @@
+ERROR:root:2023-04-20 10:41:27Při vytváření nového dodavatele došlo k chybě: Telefonní číslo musí být ve formátu ###-###-### a obsahovat pouze čísla.
+ERROR:root:2023-04-20 11:21:31Při vytváření nového dodavatele došlo k chybě: Název dodavatele nemůže být číslo.
+ERROR:root:2023-04-20 11:21:31Při vytváření nového dodavatele došlo k chybě: Telefonní číslo musí být ve formátu ###-###-### a obsahovat pouze čísla.
+INFO:root:2023-04-20 11:47:20Nahrání backupu do databáze
+INFO:root:2023-04-20 11:47:20Nahrání backupu do databáze
+INFO:root:2023-04-20 11:47:46Nahrání backupu do databáze
+INFO:root:2023-04-20 11:48:21Nahrání backupu do databáze
+INFO:root:2023-04-20 11:50:28Nahrání backupu do databáze
+INFO:root:2023-04-20 11:50:28Nahrání backupu do databáze
+INFO:root:2023-04-20 11:50:28Nahrání backupu do databáze
+ERROR:root:2023-04-20 11:51:25Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:51:25Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:51:25Nepodařilo se připojit k tabulce zakaznik: cannot unpack non-iterable NoneType object
+ERROR:root:2023-04-20 11:51:25Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:51:25Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:51:25Nepodařilo se připojit k tabulce objednavka: cannot unpack non-iterable NoneType object
+ERROR:root:2023-04-20 11:51:25Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:51:25Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:51:26Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:51:26Nepodařilo se připojit k tabulce polozka_v_objednavce: cannot unpack non-iterable NoneType object
+INFO:root:2023-04-20 11:51:25Vytvoření nového dodavatele
+ERROR:root:2023-04-20 11:52:10Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:52:10Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:52:10Nepodařilo se připojit k tabulce kategorie: cannot unpack non-iterable NoneType object
+ERROR:root:2023-04-20 11:52:15Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:52:15Chybné připojení k databázi: 1226 (42000): User 'omega_admin' has exceeded the 'max_user_connections' resource (current value: 50)
+ERROR:root:2023-04-20 11:52:15Nepodařilo se připojit k tabulce kategorie: cannot unpack non-iterable NoneType object
+ERROR:root:2023-04-20 11:52:15Při vytváření backupu dat došlo k chybě: 'RestartDB' object has no attribute 'connection'
+ERROR:root:2023-04-20 11:52:15Při vytváření backupu dat došlo k chybě: 'RestartDB' object has no attribute 'connection'
+ERROR:root:2023-04-20 11:52:15Při vytváření backupu dat došlo k chybě: 'RestartDB' object has no attribute 'connection'
+ERROR:root:2023-04-20 11:52:15Při vytváření backupu dat došlo k chybě: 'RestartDB' object has no attribute 'connection'
+ERROR:root:2023-04-20 11:52:15Při nahrávání backupu došlo k chybě při smazávání databáze: 'RestartDB' object has no attribute 'cursor'
+ERROR:root:2023-04-20 11:52:15Při nahrávání backupu došlo k chybě při vytváření databáze a importu dat: 'RestartDB' object has no attribute 'connection'
+INFO:root:2023-04-20 12:12:58Nahrání backupu do databáze
+INFO:root:2023-04-20 12:13:24Nahrání backupu do databáze
+INFO:root:2023-04-20 12:14:50Nahrání backupu do databáze
+INFO:root:2023-04-20 12:38:06Upravení lokace umístění položky
+INFO:root:2023-04-20 12:38:06Upravení lokace umístění položky
+INFO:root:2023-04-20 12:38:06Upravení lokace umístění položky
+INFO:root:2023-04-20 12:38:06Upravení lokace umístění položky
