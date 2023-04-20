@@ -1,7 +1,8 @@
 WAREHOUSE APPLICATION
 
-Autor: Dominik Slíva C4b
-E-mail: sliva@spsejecna.cz
+Autor: Dominik Slíva
+E-mail: domsliv@seznam.cz
+Linkedin: Dominik Slíva
 Verze: 1.0
 
 Popis:
