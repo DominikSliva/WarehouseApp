@@ -17,5 +17,3 @@ Vstupní data:
 	* Telefonní číslo je ve formátu ###-###-###
 	* E-mailová adresa je ve formátu text@text.text
 	* Datum je ve formátu YYYY-MM-DD# WarehouseApp
-# WarehouseApp
-# WarehouseApp
